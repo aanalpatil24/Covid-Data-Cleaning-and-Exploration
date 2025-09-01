@@ -1,5 +1,5 @@
 /*
-Covid 19 Data Cleaning
+Covid Data Cleaning
 */
 
 SELECT *
